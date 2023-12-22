@@ -1,2 +1,1 @@
-# KFTP
-Kobys bootleg FTP protocol
+# KFTP (Koby's FTP)
